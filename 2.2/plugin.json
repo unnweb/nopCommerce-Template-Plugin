@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "Template",
+  "SystemName": "Misc.Template",
+  "Version": "0.01",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "Indigy",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.Template.dll",
+  "Description": "Template of Plugin"
+}
